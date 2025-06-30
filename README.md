@@ -7,17 +7,17 @@ Team Name: AgentHerPreneurs
 Team Members (team of 6):
 -
 
-Anusha K N (Team Leader)
+- Anusha K N (Team Leader)
 
-Nandana P
+- Nandana P
 
-Jayasree
+- Jayasree
 
-Harini Anna Srinivasan
+- Harini Anna Srinivasan
 
-Abinaya Kishore 
+- Abinaya Kishore 
 
-Madhumitha
+- Madhumitha
 
 
 
