@@ -1,0 +1,1 @@
+We send SMS, Call, whatsapp & calendar Notifications all automated through AI Agents using VAPI, Elevanlabs, twilio's conversational AI support that also assist woman in targeting focused jobs and identifying informations & opportunities listed out for them.
