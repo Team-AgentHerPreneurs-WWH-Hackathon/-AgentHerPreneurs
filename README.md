@@ -4,14 +4,19 @@ We're building Project EmpowerHer for WWH x SSF'25 Hackathon
 
 Team Name: AgentHerPreneurs
 
-Team Members:
+Team Members (team of 6):
 -
 
-Anusha K N 
+Anusha K N (Team Leader)
+
 Nandana P
+
 Jayasree
+
 Harini Anna Srinivasan
+
 Abinaya Kishore 
+
 Madhumitha
 
 
