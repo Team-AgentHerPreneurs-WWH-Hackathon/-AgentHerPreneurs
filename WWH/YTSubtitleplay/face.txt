@@ -1,0 +1,388 @@
+{'text': 'in this video we will see how to swap', 'start': 0.42, 'duration': 4.919}
+0.42 --> 5.3389999999999995
+in this video we will see how to swap
+
+{'text': 'the face in the video using the AI so', 'start': 2.7, 'duration': 4.44}
+2.7 --> 7.140000000000001
+the face in the video using the AI so
+
+{'text': 'this is what we are going to do in this', 'start': 5.339, 'duration': 4.561}
+5.339 --> 9.9
+this is what we are going to do in this
+
+{'text': 'video hi I am Bernard Kohli now so as', 'start': 7.14, 'duration': 4.26}
+7.14 --> 11.399999999999999
+video hi I am Bernard Kohli now so as
+
+{'text': 'you can see my face has been changing', 'start': 9.9, 'duration': 3.72}
+9.9 --> 13.620000000000001
+you can see my face has been changing
+
+{'text': 'with Virat Kohli now I am Elon Musk here', 'start': 11.4, 'duration': 3.779}
+11.4 --> 15.179
+with Virat Kohli now I am Elon Musk here
+
+{'text': 'as you can see my face has been replaced', 'start': 13.62, 'duration': 4.02}
+13.62 --> 17.64
+as you can see my face has been replaced
+
+{'text': 'with Alan this is Tom Cruise so I am Tom', 'start': 15.179, 'duration': 4.44}
+15.179 --> 19.619
+with Alan this is Tom Cruise so I am Tom
+
+{'text': "Cruise now so let's see how to do this", 'start': 17.64, 'duration': 4.5}
+17.64 --> 22.14
+Cruise now so let's see how to do this
+
+{'text': 'face swapping using the AI', 'start': 19.619, 'duration': 4.201}
+19.619 --> 23.82
+face swapping using the AI
+
+{'text': 'you will find the link of this Google', 'start': 22.14, 'duration': 4.139}
+22.14 --> 26.279
+you will find the link of this Google
+
+{'text': 'collab in the description so just click', 'start': 23.82, 'duration': 4.32}
+23.82 --> 28.14
+collab in the description so just click
+
+{'text': 'on the link and it will open your page', 'start': 26.279, 'duration': 3.66}
+26.279 --> 29.939
+on the link and it will open your page
+
+{'text': 'like this', 'start': 28.14, 'duration': 3.84}
+28.14 --> 31.98
+like this
+
+{'text': 'so to start we just click on display', 'start': 29.939, 'duration': 4.321}
+29.939 --> 34.26
+so to start we just click on display
+
+{'text': 'icon here so before that just click on', 'start': 31.98, 'duration': 4.98}
+31.98 --> 36.96
+icon here so before that just click on
+
+{'text': 'this connect button so wait for a few', 'start': 34.26, 'duration': 5.1}
+34.26 --> 39.36
+this connect button so wait for a few
+
+{'text': 'seconds it will allocate random visual', 'start': 36.96, 'duration': 5.24}
+36.96 --> 42.2
+seconds it will allocate random visual
+
+{'text': 'memory and disk', 'start': 39.36, 'duration': 2.84}
+39.36 --> 42.2
+memory and disk
+
+{'text': 'as you can see it says connected so now', 'start': 43.92, 'duration': 5.54}
+43.92 --> 49.46
+as you can see it says connected so now
+
+{'text': 'click on this play button here', 'start': 45.719, 'duration': 3.741}
+45.719 --> 49.46
+click on this play button here
+
+{'text': 'it will take some time just wait for a', 'start': 58.44, 'duration': 4.16}
+58.44 --> 62.599999999999994
+it will take some time just wait for a
+
+{'text': 'few seconds', 'start': 60.3, 'duration': 2.3}
+60.3 --> 62.599999999999994
+few seconds
+
+{'text': 'now this cell has been executed so just', 'start': 62.879, 'duration': 4.321}
+62.879 --> 67.2
+now this cell has been executed so just
+
+{'text': 'scroll down and click on display button', 'start': 65.159, 'duration': 3.241}
+65.159 --> 68.4
+scroll down and click on display button
+
+{'text': 'here', 'start': 67.2, 'duration': 5.239}
+67.2 --> 72.43900000000001
+here
+
+{'text': 'so it will download the model for you', 'start': 68.4, 'duration': 4.039}
+68.4 --> 72.43900000000001
+so it will download the model for you
+
+{'text': 'and finally click on here GPU support', 'start': 74.54, 'duration': 5.619}
+74.54 --> 80.159
+and finally click on here GPU support
+
+{'text': 'now we are ready to swap face in the', 'start': 77.76, 'duration': 5.46}
+77.76 --> 83.22
+now we are ready to swap face in the
+
+{'text': 'video so just click on this files here', 'start': 80.159, 'duration': 5.341}
+80.159 --> 85.5
+video so just click on this files here
+
+{'text': 'and upload the video that you want to', 'start': 83.22, 'duration': 4.38}
+83.22 --> 87.6
+and upload the video that you want to
+
+{'text': 'swap face so just click on this upload', 'start': 85.5, 'duration': 4.439}
+85.5 --> 89.939
+swap face so just click on this upload
+
+{'text': 'icon choose your video that you want to', 'start': 87.6, 'duration': 4.559}
+87.6 --> 92.15899999999999
+icon choose your video that you want to
+
+{'text': 'swap face with so I will upload this', 'start': 89.939, 'duration': 3.661}
+89.939 --> 93.6
+swap face with so I will upload this
+
+{'text': 'file', 'start': 92.159, 'duration': 3.301}
+92.159 --> 95.46000000000001
+file
+
+{'text': 'so now we need the image of the face', 'start': 93.6, 'duration': 3.72}
+93.6 --> 97.32
+so now we need the image of the face
+
+{'text': 'that we want to swap the face in the', 'start': 95.46, 'duration': 2.519}
+95.46 --> 97.979
+that we want to swap the face in the
+
+{'text': 'video', 'start': 97.32, 'duration': 4.38}
+97.32 --> 101.69999999999999
+video
+
+{'text': 'so I will head over to the Google so so', 'start': 97.979, 'duration': 5.881}
+97.979 --> 103.86
+so I will head over to the Google so so
+
+{'text': "I'm going to select this image so I will", 'start': 101.7, 'duration': 5.059}
+101.7 --> 106.759
+I'm going to select this image so I will
+
+{'text': 'save this image', 'start': 103.86, 'duration': 2.899}
+103.86 --> 106.759
+save this image
+
+{'text': 'so just head over to the Google collab', 'start': 107.22, 'duration': 4.74}
+107.22 --> 111.96
+so just head over to the Google collab
+
+{'text': 'and upload this image also so click on', 'start': 109.2, 'duration': 5.599}
+109.2 --> 114.799
+and upload this image also so click on
+
+{'text': 'this upload button', 'start': 111.96, 'duration': 2.839}
+111.96 --> 114.79899999999999
+this upload button
+
+{'text': 'and select the image', 'start': 116.759, 'duration': 3.32}
+116.759 --> 120.079
+and select the image
+
+{'text': 'so in the files just make sure there are', 'start': 125.759, 'duration': 5.521}
+125.759 --> 131.28
+so in the files just make sure there are
+
+{'text': 'no space or numbers in the file names so', 'start': 128.16, 'duration': 5.04}
+128.16 --> 133.2
+no space or numbers in the file names so
+
+{'text': 'there is a space in this file name here', 'start': 131.28, 'duration': 5.599}
+131.28 --> 136.879
+there is a space in this file name here
+
+{'text': 'so I will rename this file', 'start': 133.2, 'duration': 3.679}
+133.2 --> 136.879
+so I will rename this file
+
+{'text': 'so just remove the space with another', 'start': 137.94, 'duration': 4.46}
+137.94 --> 142.4
+so just remove the space with another
+
+{'text': 'score', 'start': 139.92, 'duration': 2.48}
+139.92 --> 142.39999999999998
+score
+
+{'text': 'so now to swap the face in the video', 'start': 142.5, 'duration': 5.4}
+142.5 --> 147.9
+so now to swap the face in the video
+
+{'text': 'we have to provide the part of the video', 'start': 145.62, 'duration': 3.54}
+145.62 --> 149.16
+we have to provide the part of the video
+
+{'text': 'link here', 'start': 147.9, 'duration': 3.419}
+147.9 --> 151.31900000000002
+link here
+
+{'text': 'on the part of the image here so just', 'start': 149.16, 'duration': 4.939}
+149.16 --> 154.099
+on the part of the image here so just
+
+{'text': 'copy the part of this video here so', 'start': 151.319, 'duration': 5.64}
+151.319 --> 156.95899999999997
+copy the part of this video here so
+
+{'text': 'click on copy path and just paste it', 'start': 154.099, 'duration': 5.101}
+154.099 --> 159.2
+click on copy path and just paste it
+
+{'text': 'here', 'start': 156.959, 'duration': 2.241}
+156.959 --> 159.20000000000002
+here
+
+{'text': 'do the same for the image also so just', 'start': 160.379, 'duration': 5.041}
+160.379 --> 165.42
+do the same for the image also so just
+
+{'text': 'copy this image part', 'start': 162.42, 'duration': 6.14}
+162.42 --> 168.55999999999997
+copy this image part
+
+{'text': 'paste it here', 'start': 165.42, 'duration': 3.14}
+165.42 --> 168.55999999999997
+paste it here
+
+{'text': 'so after that just click on display icon', 'start': 170.099, 'duration': 4.701}
+170.099 --> 174.79999999999998
+so after that just click on display icon
+
+{'text': 'so now we got a new file here that is', 'start': 178.92, 'duration': 5.34}
+178.92 --> 184.26
+so now we got a new file here that is
+
+{'text': 'swap dot MP4 so just right click on it', 'start': 181.2, 'duration': 5.759}
+181.2 --> 186.959
+swap dot MP4 so just right click on it
+
+{'text': 'and click on download as you can see it', 'start': 184.26, 'duration': 4.559}
+184.26 --> 188.819
+and click on download as you can see it
+
+{'text': 'starts downloading so just save this', 'start': 186.959, 'duration': 5.78}
+186.959 --> 192.739
+starts downloading so just save this
+
+{'text': 'file so just name your file', 'start': 188.819, 'duration': 3.92}
+188.819 --> 192.73899999999998
+file so just name your file
+
+{'text': 'so open it', 'start': 193.62, 'duration': 3.259}
+193.62 --> 196.879
+so open it
+
+{'text': "isn't this amazing how my face has been", 'start': 199.2, 'duration': 4.5}
+199.2 --> 203.7
+isn't this amazing how my face has been
+
+{'text': 'replaced with nithin comma space', 'start': 201.42, 'duration': 5.399}
+201.42 --> 206.819
+replaced with nithin comma space
+
+{'text': 'so this is the power of a nowadays', 'start': 203.7, 'duration': 5.34}
+203.7 --> 209.04
+so this is the power of a nowadays
+
+{'text': 'we can also replace the face in the', 'start': 206.819, 'duration': 5.041}
+206.819 --> 211.85999999999999
+we can also replace the face in the
+
+{'text': 'image also so to do the just close this', 'start': 209.04, 'duration': 5.96}
+209.04 --> 215.0
+image also so to do the just close this
+
+{'text': 'video here', 'start': 211.86, 'duration': 3.14}
+211.86 --> 215.0
+video here
+
+{'text': "so I'm going to", 'start': 215.459, 'duration': 5.28}
+215.459 --> 220.739
+so I'm going to
+
+{'text': 'swap the face of nitin comet with Elon', 'start': 217.56, 'duration': 5.52}
+217.56 --> 223.08
+swap the face of nitin comet with Elon
+
+{'text': "Musk so let's upload the face of Elon", 'start': 220.739, 'duration': 4.64}
+220.739 --> 225.379
+Musk so let's upload the face of Elon
+
+{'text': 'Musk', 'start': 223.08, 'duration': 2.299}
+223.08 --> 225.37900000000002
+Musk
+
+{'text': 'so just copy the knitting combat image', 'start': 231.0, 'duration': 5.94}
+231.0 --> 236.94
+so just copy the knitting combat image
+
+{'text': 'and paste it here', 'start': 234.299, 'duration': 4.621}
+234.299 --> 238.92000000000002
+and paste it here
+
+{'text': 'and copy the', 'start': 236.94, 'duration': 4.92}
+236.94 --> 241.85999999999999
+and copy the
+
+{'text': 'path of the Elon Musk also so just paste', 'start': 238.92, 'duration': 5.239}
+238.92 --> 244.159
+path of the Elon Musk also so just paste
+
+{'text': 'it here', 'start': 241.86, 'duration': 2.299}
+241.86 --> 244.15900000000002
+it here
+
+{'text': 'remember to swap the face in the image', 'start': 245.94, 'duration': 4.32}
+245.94 --> 250.26
+remember to swap the face in the image
+
+{'text': 'make sure you change the extension here', 'start': 248.04, 'duration': 4.58}
+248.04 --> 252.62
+make sure you change the extension here
+
+{'text': 'so instead of this swap put that MP4', 'start': 250.26, 'duration': 6.96}
+250.26 --> 257.21999999999997
+so instead of this swap put that MP4
+
+{'text': 'just change the extension to swapper.jpg', 'start': 252.62, 'duration': 8.32}
+252.62 --> 260.94
+just change the extension to swapper.jpg
+
+{'text': 'so now click on display button here', 'start': 257.22, 'duration': 7.02}
+257.22 --> 264.24
+so now click on display button here
+
+{'text': 'so now we got a rapid image here so just', 'start': 260.94, 'duration': 5.4}
+260.94 --> 266.34
+so now we got a rapid image here so just
+
+{'text': 'download this image', 'start': 264.24, 'duration': 6.019}
+264.24 --> 270.259
+download this image
+
+{'text': 'so I will open this file here', 'start': 266.34, 'duration': 3.919}
+266.34 --> 270.25899999999996
+so I will open this file here
+
+{'text': 'as you can see the nithin comma space', 'start': 270.6, 'duration': 4.379}
+270.6 --> 274.97900000000004
+as you can see the nithin comma space
+
+{'text': 'has been swapped with the Elan mask', 'start': 272.4, 'duration': 5.04}
+272.4 --> 277.44
+has been swapped with the Elan mask
+
+{'text': 'so this is how you swap the face using', 'start': 274.979, 'duration': 5.101}
+274.979 --> 280.08
+so this is how you swap the face using
+
+{'text': 'the power of AI so this is for this', 'start': 277.44, 'duration': 4.14}
+277.44 --> 281.58
+the power of AI so this is for this
+
+{'text': 'video and they will meet you in the next', 'start': 280.08, 'duration': 3.74}
+280.08 --> 283.82
+video and they will meet you in the next
+
+{'text': 'one', 'start': 281.58, 'duration': 2.24}
+281.58 --> 283.82
+one
+

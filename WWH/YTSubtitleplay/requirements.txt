@@ -1,0 +1,4 @@
+# youtube_transcript_api --user
+youtube_transcript_api
+pysrt
+translate
